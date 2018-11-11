@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd6b084c-fc94-4785-8634-b28a64e4e754" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/luhn/.gradle/" />
+    <ignored path="$PROJECT_DIR$/luhn/build/" />
+    <ignored path="$PROJECT_DIR$/luhn/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/luhn">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1336363658">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="42" />
+          <entry key="java" value="3825" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="42" />
+          <entry key="JAVA" value="3825" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/co/muhiuddin/luhn/InputHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/co/muhiuddin/luhn/LuhnCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LuhnCalculatorTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/co/muhiuddin/luhn/AppLauncher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luhn/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InputHandlerTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/luhn" value="C:\Gradle\gradle-4.10.2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/luhn" value="4.10.2" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="luhn" />
+              <option name="path" value="$PROJECT_DIR$/luhn" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="luhn" />
+                <option name="path" value="$PROJECT_DIR$/luhn" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$/luhn">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'luhn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'luhn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'luhn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'luhn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'luhn'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'luhn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'luhn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'luhn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'luhn'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/luhn" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/luhn" value="4625771282977" />
+        <entry key="$PROJECT_DIR$/luhn/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/luhn/build.gradle" value="1230992240" />
+        <entry key="$PROJECT_DIR$/luhn/settings.gradle" value="2335631076" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$/luhn">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/luhn">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/luhn" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="luhn" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Gradle/gradle-4.10.2/lib/ant-1.9.11.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/ant-launcher-1.9.11.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-api-metadata-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-base-services-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-base-services-groovy-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-build-cache-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-build-option-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-cli-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-core-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-core-api-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-docs-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-installation-beacon-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-jvm-services-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-1.0-rc-6.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-6.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-6.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-6.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-launcher-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-logging-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-messaging-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-model-core-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-model-groovy-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-native-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-persistent-cache-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-process-services-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-resources-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-runtime-api-info-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-tooling-api-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/gradle-wrapper-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/groovy-all-2.4.15.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-announce-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-antlr-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-build-cache-http-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-build-comparison-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-build-init-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-code-quality-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-composite-builds-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-dependency-management-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-diagnostics-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-ear-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-ide-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-ide-native-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-ide-play-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-ivy-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-jacoco-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-javascript-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-language-groovy-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-language-java-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-language-jvm-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-language-native-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-language-scala-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-maven-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-osgi-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-platform-base-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-platform-jvm-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-platform-native-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-platform-play-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-plugin-development-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-plugin-use-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-plugins-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-publish-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-reporting-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-resources-gcs-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-resources-http-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-resources-s3-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-resources-sftp-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-scala-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-signing-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-test-kit-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-testing-base-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-testing-junit-platform-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-testing-jvm-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-testing-native-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-tooling-api-builders-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-tooling-native-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-version-control-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/gradle-workers-4.10.2.jar" />
+                  <option value="C:/Gradle/gradle-4.10.2/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/luhn" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/co/muhiuddin/luhn/AppLauncher.java" />
+        <option value="$PROJECT_DIR$/TestInputHandler.java" />
+        <option value="$PROJECT_DIR$/src/co/muhiuddin/luhn/InputHandler.java" />
+        <option value="$PROJECT_DIR$/src/co/muhiuddin/luhn/LuhnCalculator.java" />
+        <option value="$PROJECT_DIR$/InputHandlerTests.java" />
+        <option value="$PROJECT_DIR$/luhn/build.gradle" />
+        <option value="$PROJECT_DIR$/src/LuhnCalculatorTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showModules Scope="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope">
+          <expand>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="co" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="co" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="muhiuddin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="co" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="muhiuddin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="luhn" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Luhn" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="luhn" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Luhn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3966851" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LuhnCalculatorTests">
+    <configuration name="AppLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.muhiuddin.luhn.AppLauncher" />
+      <module name="Luhn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.muhiuddin.luhn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputHandlerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Luhn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InputHandlerTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputHandlerTests.succeedingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Luhn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InputHandlerTests" />
+      <option name="METHOD_NAME" value="succeedingTest(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuhnCalculatorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Luhn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LuhnCalculatorTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInputHandler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Luhn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestInputHandler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppLauncher" />
+      <item itemvalue="JUnit.TestInputHandler" />
+      <item itemvalue="JUnit.InputHandlerTests" />
+      <item itemvalue="JUnit.InputHandlerTests.succeedingTest" />
+      <item itemvalue="JUnit.LuhnCalculatorTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LuhnCalculatorTests" />
+        <item itemvalue="JUnit.InputHandlerTests" />
+        <item itemvalue="JUnit.InputHandlerTests.succeedingTest" />
+        <item itemvalue="Application.AppLauncher" />
+        <item itemvalue="JUnit.TestInputHandler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd6b084c-fc94-4785-8634-b28a64e4e754" name="Default Changelist" comment="" />
+      <created>1541888748397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541888748397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InputHandlerTests - 2018.11.11 at 21h 39m 30s.xml">
+      <configuration name="InputHandlerTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputHandlerTests_succeedingTest - 2018.11.11 at 21h 44m 57s.xml">
+      <configuration name="InputHandlerTests.succeedingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputHandlerTests - 2018.11.11 at 21h 58m 49s.xml">
+      <configuration name="InputHandlerTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnCalculatorTests - 2018.11.11 at 22h 05m 21s.xml">
+      <configuration name="LuhnCalculatorTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnCalculatorTests - 2018.11.11 at 22h 11m 16s.xml">
+      <configuration name="LuhnCalculatorTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnCalculatorTests - 2018.11.11 at 22h 12m 20s.xml">
+      <configuration name="LuhnCalculatorTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnCalculatorTests - 2018.11.11 at 22h 13m 58s.xml">
+      <configuration name="LuhnCalculatorTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputHandlerTests - 2018.11.11 at 22h 14m 21s.xml">
+      <configuration name="InputHandlerTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputHandlerTests - 2018.11.11 at 22h 20m 30s.xml">
+      <configuration name="InputHandlerTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnCalculatorTests - 2018.11.11 at 22h 20m 58s.xml">
+      <configuration name="LuhnCalculatorTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Learn" order="1" weight="0.32995737" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4973046" visible="true" weight="0.21588486" />
+      <window_info id="Structure" order="3" sideWeight="0.50269544" side_tool="true" weight="0.21588486" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49840087" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.3827292" side_tool="true" weight="0.46637744" />
+      <window_info anchor="bottom" id="Build" order="2" sideWeight="0.49733475" weight="0.30911064" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.48880598" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.61727077" weight="0.46637744" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.4989339" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Learn" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4973046" weight="0.21375267" />
+      <window_info id="Structure" order="3" sideWeight="0.50269544" side_tool="true" visible="true" weight="0.21588486" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49840087" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.3827292" side_tool="true" visible="true" weight="0.46637744" />
+      <window_info anchor="bottom" id="Build" order="2" sideWeight="0.49733475" weight="0.30911064" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.48880598" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.61727077" visible="true" weight="0.46637744" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.4989339" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Luhn.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/co/muhiuddin/luhn/InputHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/co/muhiuddin/luhn/LuhnCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LuhnCalculatorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/co/muhiuddin/luhn/AppLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luhn/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InputHandlerTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Luhn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3966851" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>apiguardian-api-1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3966851" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
